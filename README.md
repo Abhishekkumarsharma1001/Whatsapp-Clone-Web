@@ -31,9 +31,3 @@ Contributions are welcome! Feel free to submit pull requests or open issues for 
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
-Feel free to expand upon this README with more details about specific features, installation instructions, or any other relevant information.
-
-Clone of the current Whatsapp Web UI. Check it out [https://bit.ly/Whatsapp-web_Clone].
-
-Built with HTML & CSS & JAVASCRIPT & JQUERY.
