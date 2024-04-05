@@ -39,6 +39,9 @@ The latest update includes some nice new features, such as the gradient border a
 Light Theme
 ![Light Theme-1](https://github.com/Abhishekkumarsharma1001/Whatsapp-Clone-Web/blob/main/Screenshot%202024-04-06%20004017.png).</br>
 
+Dark Theme
+![Dark Theme-2](https://github.com/Abhishekkumarsharma1001/Whatsapp-Clone-Web/blob/main/Screenshot%202024-04-06%20004119.png).</br>
+
 
 ## Contributing
 Contributions are welcome! Feel free to submit pull requests or open issues for any improvements or bug fixes.
