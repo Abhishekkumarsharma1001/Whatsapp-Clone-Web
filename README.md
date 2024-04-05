@@ -12,7 +12,6 @@ The latest update includes some nice new features, such as the gradient border a
 
 - **[Live Preview](https://bit.ly/Whatsapp-web_Clone)**
 
-
 ## Features
 - Login with your WhatsApp account.
 - View your contacts and chat history.
@@ -35,6 +34,11 @@ The latest update includes some nice new features, such as the gradient border a
 3. Type your message in the chat input field and press Enter to send.
 4. Receive messages in real-time from your contacts.
 5. Enjoy communicating with friends and family through the WhatsApp web clone!
+
+**Preview:**</br>
+Light Theme
+![Light Theme-1](https://github.com/Abhishekkumarsharma1001/Whatsapp-Clone-Web/blob/main/Screenshot%202024-04-06%20004017.png).</br>
+
 
 ## Contributing
 Contributions are welcome! Feel free to submit pull requests or open issues for any improvements or bug fixes.
