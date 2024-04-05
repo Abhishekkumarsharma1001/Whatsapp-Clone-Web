@@ -10,8 +10,6 @@ This project is a clone of the [Whatsapp web UI](https://web.whatsapp.com/login)
 
 The latest update includes some nice new features, such as the gradient border and scroll buttons in stories, and the possibility to add more than one media to the post content, plus, of course, a major overhaul of the UI design!
 
-- **[Live Preview](https://bit.ly/Whatsapp-web_Clone)**
-
 ## Features
 - Login with your WhatsApp account.
 - View your contacts and chat history.
@@ -45,6 +43,7 @@ Dark Theme
 Phone View</br>
 ![Phone View3](https://github.com/Abhishekkumarsharma1001/Whatsapp-Clone-Web/blob/main/WhatsApp%20Image%202024-04-06%20at%2000.47.20_c3885b8e.jpg).</br>
 
+- **[Live Preview](https://bit.ly/Whatsapp-web_Clone)**
 
 
 ## Contributing
