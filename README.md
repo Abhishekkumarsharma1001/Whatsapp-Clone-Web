@@ -42,6 +42,10 @@ Light Theme
 Dark Theme
 ![Dark Theme-2](https://github.com/Abhishekkumarsharma1001/Whatsapp-Clone-Web/blob/main/Screenshot%202024-04-06%20004119.png).</br>
 
+Phone View
+![Phone View3](https://github.com/Abhishekkumarsharma1001/Whatsapp-Clone-Web/blob/main/WhatsApp%20Image%202024-04-06%20at%2000.47.20_c3885b8e.jpg).</br>
+
+
 
 ## Contributing
 Contributions are welcome! Feel free to submit pull requests or open issues for any improvements or bug fixes.
