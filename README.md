@@ -29,5 +29,10 @@ This project is a clone of the WhatsApp web interface created using HTML, CSS, a
 ## Contributing
 Contributions are welcome! Feel free to submit pull requests or open issues for any improvements or bug fixes.
 
+## ℹ Infos
+
+Created by 😎[Abhishek Kumar Sharma](https://www.linkedin.com/in/abhishek-kumar-sharma-3b2bb0213).
+
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
