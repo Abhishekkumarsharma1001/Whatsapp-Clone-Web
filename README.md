@@ -10,7 +10,7 @@ This project is a clone of the [Whatsapp web UI](https://web.whatsapp.com/login)
 
 The latest update includes some nice new features, such as the gradient border and scroll buttons in stories, and the possibility to add more than one media to the post content, plus, of course, a major overhaul of the UI design!
 
-- **[Live Preview](https://bit.ly/Insta-Clone_Abhishek001)**
+- **[Live Preview](https://bit.ly/Whatsapp-web_Clone)**
 
 
 ## Features
