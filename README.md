@@ -22,7 +22,7 @@ The latest update includes some nice new features, such as the gradient border a
 - JavaScript: Programming language for implementing interactive features and real-time messaging.
 
 ## Installation
-1. Clone the repository: `git clone <repository_url>`
+1. Clone the repository: `git clone <https://github.com/Abhishekkumarsharma1001/Whatsapp-Clone-Web>`
 2. Open the project folder.
 3. Open `index.html` in your web browser.
 
