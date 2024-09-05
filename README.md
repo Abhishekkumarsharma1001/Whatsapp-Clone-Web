@@ -43,7 +43,7 @@ Dark Theme
 Phone View</br>
 ![Phone View3](https://github.com/Abhishekkumarsharma1001/Whatsapp-Clone-Web/blob/main/WhatsApp%20Image%202024-04-06%20at%2000.47.20_c3885b8e.jpg).</br>
 
-- **[Live Preview](https://bit.ly/Whatsapp-web_Clone)**
+- **[Live Preview](https://6610440cae68603206bf3d2f--peaceful-gumption-f04a41.netlify.app/)**
 
 
 ## Contributing
